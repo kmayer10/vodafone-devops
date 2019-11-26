@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>java-web-project-vodafone Maven Webapp</name>
-  <url>https://www.thinknyx.com/</url>
+  <url>http://18.220.86.161:8080/</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
